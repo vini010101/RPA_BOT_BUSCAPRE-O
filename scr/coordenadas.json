@@ -1,0 +1,66 @@
+{
+    "explorador_arquivos": {
+        "x": 873,
+        "y": 1054
+    },
+    "este_computador": {
+        "x": 63,
+        "y": 692
+    },
+    "disco_local_c": {
+        "x": 231,
+        "y": 200
+    },
+    "pasta_navegador_sankhya": {
+        "x": 218,
+        "y": 369
+    },
+    "exe_sankhya": {
+        "x": 229,
+        "y": 592
+    },
+    "usuario_sankhya": {
+        "x": 1506,
+        "y": 511
+    },
+    "senha_sankhya": {
+        "x": 1524,
+        "y": 544
+    },
+    "pesquisar": {
+        "x": 1687,
+        "y": 78
+    },
+    "busca_preco": {
+        "x": 1313,
+        "y": 104
+    },
+    "mostra_grade": {
+        "x": 99,
+        "y": 266
+    },
+    "atualizar": {
+        "x": 516,
+        "y": 115
+    },
+    "dh_processamento": {
+        "x": 189,
+        "y": 172
+    },
+    "price_tab": {
+        "x": 202,
+        "y": 229
+    },
+    "local_salvamento": {
+        "x": 660,
+        "y": 423
+    },
+    "salvar": {
+        "x": 1035,
+        "y": 660
+    },
+    "sim": {
+        "x": 1013,
+        "y": 534
+    }
+}
